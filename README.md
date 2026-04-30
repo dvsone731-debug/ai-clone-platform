@@ -1,5 +1,5 @@
 
-# AI Clone Platform
+AI Clone Platform
 
 A simple full‑stack AI video clone generator with:
 - User accounts
